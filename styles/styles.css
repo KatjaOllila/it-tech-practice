@@ -8,12 +8,22 @@ h1 {
 }
 
  p {
-    color: slategray;
+    color: black;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-align:center;
+    
  }
 
  h3.dates {
    font-weight: 600;
    color: green;
+   text-align: center;
+ }
+
+ img.left {
+   float: left;
+   margin-right: 1em;
+   margin-bottom: 1em;
+ }
+ .stop {
+   clear: both;
  }
