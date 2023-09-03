@@ -13,7 +13,7 @@ h1 {
     text-align:center;
  }
 
- p.special {
-    color: green;
-
+ h3.dates {
+   font-weight: 600;
+   color: green;
  }
